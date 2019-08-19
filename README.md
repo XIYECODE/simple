@@ -1,0 +1,2 @@
+# MyBatis示例
+该项目主要是学习mybatis的一些用法
