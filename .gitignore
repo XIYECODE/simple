@@ -1,0 +1,18 @@
+# 版本控制需要忽略的文件，以下三种环境一般需要忽略的文件
+
+# Maven
+target/
+
+# IDEA
+.idea/
+*.iml
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# 视具体情况而定
+mybatis*.*
+note/
+user*
